@@ -1,0 +1,1740 @@
+fileFormatVersion: 2
+guid: f91797d46d812a84eaefb75c2e21b7bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6208138322869454031
+    second: Personnage_F_Atk_0
+  - first:
+      213: 395090398073746754
+    second: Personnage_F_Atk_1
+  - first:
+      213: -2351020547565021203
+    second: Personnage_F_Atk_2
+  - first:
+      213: 7518957314931192226
+    second: Personnage_F_Atk_3
+  - first:
+      213: 5158583758577408676
+    second: Personnage_F_Atk_4
+  - first:
+      213: 2558698101792375883
+    second: Personnage_F_Atk_5
+  - first:
+      213: -5637583233617077500
+    second: Personnage_F_Atk_6
+  - first:
+      213: 2531941200278357319
+    second: Personnage_F_Atk_7
+  - first:
+      213: -3112672989944860709
+    second: Personnage_F_Atk_8
+  - first:
+      213: 8441542849287332659
+    second: Personnage_F_Atk_9
+  - first:
+      213: 3148505505277691872
+    second: Personnage_F_Atk_10
+  - first:
+      213: 5467578088659210852
+    second: Personnage_F_Atk_11
+  - first:
+      213: -3879089494462851745
+    second: Personnage_F_Atk_12
+  - first:
+      213: 3053258933342031973
+    second: Personnage_F_Atk_13
+  - first:
+      213: 7250154897106587747
+    second: Personnage_F_Atk_14
+  - first:
+      213: 4032753914880424273
+    second: Personnage_F_Atk_15
+  - first:
+      213: -1910721666009100807
+    second: Personnage_F_Atk_16
+  - first:
+      213: 3858186621296533510
+    second: Personnage_F_Atk_17
+  - first:
+      213: 1165118473268998895
+    second: Personnage_F_Atk_18
+  - first:
+      213: 8778746758129169830
+    second: Personnage_F_Atk_19
+  - first:
+      213: 482511792587759884
+    second: Personnage_F_Atk_20
+  - first:
+      213: -9113638469320300637
+    second: Personnage_F_Atk_21
+  - first:
+      213: 5560186628065560977
+    second: Personnage_F_Atk_22
+  - first:
+      213: 5662968127301038194
+    second: Personnage_F_Atk_23
+  - first:
+      213: 6864588426150104557
+    second: Personnage_F_Atk_24
+  - first:
+      213: 167749152941664509
+    second: Personnage_F_Atk_25
+  - first:
+      213: -1545396403309977525
+    second: Personnage_F_Atk_26
+  - first:
+      213: -5773965297077229563
+    second: Personnage_F_Atk_27
+  - first:
+      213: 5909675631969059410
+    second: Personnage_F_Atk_28
+  - first:
+      213: 6960851954889878055
+    second: Personnage_F_Atk_29
+  - first:
+      213: 9027952251472859881
+    second: Personnage_F_Atk_30
+  - first:
+      213: 3276378037742032085
+    second: Personnage_F_Atk_31
+  - first:
+      213: -8601499488705437907
+    second: Personnage_F_Atk_32
+  - first:
+      213: -1371371849318761502
+    second: Personnage_F_Atk_33
+  - first:
+      213: 3660276079324806737
+    second: Personnage_F_Atk_34
+  - first:
+      213: -9113941614029418544
+    second: Personnage_F_Atk_35
+  - first:
+      213: -2073237315657218130
+    second: Personnage_F_Atk_36
+  - first:
+      213: -2045884225342391256
+    second: Personnage_F_Atk_37
+  - first:
+      213: -4934919812069514414
+    second: Personnage_F_Atk_38
+  - first:
+      213: -1972288657996372490
+    second: Personnage_F_Atk_39
+  - first:
+      213: 1776555092029585819
+    second: Personnage_F_Atk_40
+  - first:
+      213: -2187594084509285495
+    second: Personnage_F_Atk_41
+  - first:
+      213: -3562511191487420469
+    second: Personnage_F_Atk_42
+  - first:
+      213: 5738431981198817987
+    second: Personnage_F_Atk_43
+  - first:
+      213: -7451458544132731870
+    second: Personnage_F_Atk_44
+  - first:
+      213: -2015850823421509141
+    second: Personnage_F_Atk_45
+  - first:
+      213: 8738620373349156041
+    second: Personnage_F_Atk_46
+  - first:
+      213: 520791278582168167
+    second: Personnage_F_Atk_47
+  - first:
+      213: 6065090159236363184
+    second: Personnage_F_Atk_48
+  - first:
+      213: -7272299033697929008
+    second: Personnage_F_Atk_49
+  - first:
+      213: -2289468779382611293
+    second: Personnage_F_Atk_50
+  - first:
+      213: -3008977870288953242
+    second: Personnage_F_Atk_51
+  - first:
+      213: 3259996645983209
+    second: Personnage_F_Atk_52
+  - first:
+      213: -4573830795303413552
+    second: Personnage_F_Atk_53
+  - first:
+      213: -8473890500858259827
+    second: Personnage_F_Atk_54
+  - first:
+      213: -3895436935460202061
+    second: Personnage_F_Atk_55
+  - first:
+      213: -630673082517390163
+    second: Personnage_F_Atk_56
+  - first:
+      213: -2964536663373422582
+    second: Personnage_F_Atk_57
+  - first:
+      213: -974609243018073833
+    second: Personnage_F_Atk_58
+  - first:
+      213: 4702260955522379650
+    second: Personnage_F_Atk_59
+  - first:
+      213: -4627588155110408268
+    second: Personnage_F_Atk_60
+  - first:
+      213: 7293317471907639421
+    second: Personnage_F_Atk_61
+  - first:
+      213: -6177532019480852101
+    second: Personnage_F_Atk_62
+  - first:
+      213: -2548364108730858701
+    second: Personnage_F_Atk_63
+  - first:
+      213: -410343893987948977
+    second: Personnage_F_Atk_64
+  - first:
+      213: 8563766154049191489
+    second: Personnage_F_Atk_65
+  - first:
+      213: -7656007707170442809
+    second: Personnage_F_Atk_66
+  - first:
+      213: -7561332546944610049
+    second: Personnage_F_Atk_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personnage_F_Atk_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 153
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc48f1b99ecb72650800000000000000
+      internalID: 6208138322869454031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_1
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 157
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2457a5faf94ab7500800000000000000
+      internalID: 395090398073746754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_2
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 172
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de71ebaa44f7f5fd0800000000000000
+      internalID: -2351020547565021203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_3
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 0
+        width: 152
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a17ccd37d3b85860800000000000000
+      internalID: 7518957314931192226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 0
+        width: 152
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa1b1ad898f69740800000000000000
+      internalID: 5158583758577408676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_5
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 0
+        width: 152
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b440dc4fd52528320800000000000000
+      internalID: 2558698101792375883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 152
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b5e801be743c1b0800000000000000
+      internalID: -5637583233617077500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_7
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 0
+        width: 152
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74584ca5b13432320800000000000000
+      internalID: 2531941200278357319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_8
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 0
+        width: 152
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf226448609dc4d0800000000000000
+      internalID: -3112672989944860709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_9
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 0
+        width: 152
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333a2080f72662570800000000000000
+      internalID: 8441542849287332659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_10
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 0
+        width: 152
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e74077531db1bb20800000000000000
+      internalID: 3148505505277691872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_11
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 0
+        width: 152
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462dd3c9d4db0eb40800000000000000
+      internalID: 5467578088659210852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_12
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 0
+        width: 152
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55979638a4ba2ac0800000000000000
+      internalID: -3879089494462851745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_13
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 0
+        width: 152
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560d321b2da5f5a20800000000000000
+      internalID: 3053258933342031973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_14
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 0
+        width: 152
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360d8984779bd9460800000000000000
+      internalID: 7250154897106587747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_15
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 0
+        width: 157
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1597303b15837f730800000000000000
+      internalID: 4032753914880424273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_16
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 0
+        width: 172
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd82e8a4c0cb75e0800000000000000
+      internalID: -1910721666009100807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_17
+      rect:
+        serializedVersion: 2
+        x: 4764
+        y: 0
+        width: 152
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6006b8f5a480b8530800000000000000
+      internalID: 3858186621296533510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_18
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 0
+        width: 152
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2b17014155b2010800000000000000
+      internalID: 1165118473268998895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_19
+      rect:
+        serializedVersion: 2
+        x: 5260
+        y: 0
+        width: 152
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b66b2aaf54d970800000000000000
+      internalID: 8778746758129169830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_20
+      rect:
+        serializedVersion: 2
+        x: 5509
+        y: 0
+        width: 152
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01612d3be932b600800000000000000
+      internalID: 482511792587759884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_21
+      rect:
+        serializedVersion: 2
+        x: 5757
+        y: 0
+        width: 152
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a724d8291ad58180800000000000000
+      internalID: -9113638469320300637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_22
+      rect:
+        serializedVersion: 2
+        x: 6254
+        y: 0
+        width: 152
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19989b27740c92d40800000000000000
+      internalID: 5560186628065560977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_23
+      rect:
+        serializedVersion: 2
+        x: 6502
+        y: 0
+        width: 152
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27033221287e69e40800000000000000
+      internalID: 5662968127301038194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_24
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 0
+        width: 152
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded4fedadcae34f50800000000000000
+      internalID: 6864588426150104557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_25
+      rect:
+        serializedVersion: 2
+        x: 6998
+        y: 0
+        width: 153
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8e57047f6f35200800000000000000
+      internalID: 167749152941664509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_26
+      rect:
+        serializedVersion: 2
+        x: 7247
+        y: 0
+        width: 152
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40ea87b826ad8ae0800000000000000
+      internalID: -1545396403309977525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_27
+      rect:
+        serializedVersion: 2
+        x: 12168
+        y: 0
+        width: 202
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50867427721cedfa0800000000000000
+      internalID: -5773965297077229563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_28
+      rect:
+        serializedVersion: 2
+        x: 12416
+        y: 0
+        width: 187
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2524c4d2da2630250800000000000000
+      internalID: 5909675631969059410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_29
+      rect:
+        serializedVersion: 2
+        x: 12664
+        y: 0
+        width: 208
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a6b4909f9e99060800000000000000
+      internalID: 6960851954889878055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_30
+      rect:
+        serializedVersion: 2
+        x: 13064
+        y: 319
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e25a369dbab94d70800000000000000
+      internalID: 9027952251472859881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_31
+      rect:
+        serializedVersion: 2
+        x: 13090
+        y: 334
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d451816778087d20800000000000000
+      internalID: 3276378037742032085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_32
+      rect:
+        serializedVersion: 2
+        x: 13110
+        y: 345
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f1208a9c551a880800000000000000
+      internalID: -8601499488705437907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_33
+      rect:
+        serializedVersion: 2
+        x: 13308
+        y: 289
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb7262a198e7fce0800000000000000
+      internalID: -1371371849318761502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_34
+      rect:
+        serializedVersion: 2
+        x: 13338
+        y: 304
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15eb30083b9ebc230800000000000000
+      internalID: 3660276079324806737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_35
+      rect:
+        serializedVersion: 2
+        x: 13369
+        y: 340
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df4028c366c48180800000000000000
+      internalID: -9113941614029418544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_36
+      rect:
+        serializedVersion: 2
+        x: 3770
+        y: 0
+        width: 152
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7ca2955a16a33e0800000000000000
+      internalID: -2073237315657218130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_37
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 0
+        width: 152
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c34e8f22f8b93e0800000000000000
+      internalID: -2045884225342391256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_38
+      rect:
+        serializedVersion: 2
+        x: 6005
+        y: 0
+        width: 152
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2532f86c394a38bb0800000000000000
+      internalID: -4934919812069514414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_39
+      rect:
+        serializedVersion: 2
+        x: 7520
+        y: 0
+        width: 87
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f528994ae501a4e0800000000000000
+      internalID: -1972288657996372490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_40
+      rect:
+        serializedVersion: 2
+        x: 7769
+        y: 0
+        width: 86
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99b550917797a810800000000000000
+      internalID: 1776555092029585819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_41
+      rect:
+        serializedVersion: 2
+        x: 8017
+        y: 0
+        width: 86
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983041045ca14a1e0800000000000000
+      internalID: -2187594084509285495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_42
+      rect:
+        serializedVersion: 2
+        x: 8265
+        y: 0
+        width: 92
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7e90342fa6f8ec0800000000000000
+      internalID: -3562511191487420469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_43
+      rect:
+        serializedVersion: 2
+        x: 8514
+        y: 0
+        width: 96
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cab81fbb7103af40800000000000000
+      internalID: 5738431981198817987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_44
+      rect:
+        serializedVersion: 2
+        x: 8747
+        y: 0
+        width: 111
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c4b620fe9179890800000000000000
+      internalID: -7451458544132731870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_45
+      rect:
+        serializedVersion: 2
+        x: 9005
+        y: 0
+        width: 122
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be148c54b524604e0800000000000000
+      internalID: -2015850823421509141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_46
+      rect:
+        serializedVersion: 2
+        x: 9243
+        y: 0
+        width: 132
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4c77c2ee0d54970800000000000000
+      internalID: 8738620373349156041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_47
+      rect:
+        serializedVersion: 2
+        x: 9502
+        y: 0
+        width: 106
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76af20a98e83a3700800000000000000
+      internalID: 520791278582168167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_48
+      rect:
+        serializedVersion: 2
+        x: 9755
+        y: 0
+        width: 86
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b330089d578b2450800000000000000
+      internalID: 6065090159236363184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_49
+      rect:
+        serializedVersion: 2
+        x: 10004
+        y: 0
+        width: 91
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8b4042f8a931b90800000000000000
+      internalID: -7272299033697929008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_50
+      rect:
+        serializedVersion: 2
+        x: 10252
+        y: 0
+        width: 101
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a26d88764c2a30e0800000000000000
+      internalID: -2289468779382611293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_51
+      rect:
+        serializedVersion: 2
+        x: 10485
+        y: 0
+        width: 122
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6606a68b196fd36d0800000000000000
+      internalID: -3008977870288953242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_52
+      rect:
+        serializedVersion: 2
+        x: 10749
+        y: 0
+        width: 121
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e38d0e13f49b0000800000000000000
+      internalID: 3259996645983209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_53
+      rect:
+        serializedVersion: 2
+        x: 10997
+        y: 0
+        width: 91
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d89237ff1d7680c0800000000000000
+      internalID: -4573830795303413552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_54
+      rect:
+        serializedVersion: 2
+        x: 11215
+        y: 0
+        width: 197
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8659ce6c71b66a80800000000000000
+      internalID: -8473890500858259827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_55
+      rect:
+        serializedVersion: 2
+        x: 11473
+        y: 0
+        width: 188
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b955f00fb0a0f9c0800000000000000
+      internalID: -3895436935460202061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_56
+      rect:
+        serializedVersion: 2
+        x: 11722
+        y: 0
+        width: 187
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac76234c266f37f0800000000000000
+      internalID: -630673082517390163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_57
+      rect:
+        serializedVersion: 2
+        x: 11919
+        y: 0
+        width: 203
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0061088c99dbd6d0800000000000000
+      internalID: -2964536663373422582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_58
+      rect:
+        serializedVersion: 2
+        x: 12912
+        y: 0
+        width: 244
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7196813ae0e7972f0800000000000000
+      internalID: -974609243018073833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_59
+      rect:
+        serializedVersion: 2
+        x: 13161
+        y: 0
+        width: 248
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa917ec69c14140800000000000000
+      internalID: 4702260955522379650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_60
+      rect:
+        serializedVersion: 2
+        x: 13409
+        y: 0
+        width: 248
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfb6d7471187cfb0800000000000000
+      internalID: -4627588155110408268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_61
+      rect:
+        serializedVersion: 2
+        x: 13586
+        y: 304
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70743b5991173560800000000000000
+      internalID: 7293317471907639421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_62
+      rect:
+        serializedVersion: 2
+        x: 13617
+        y: 299
+        width: 5
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b790e36bb5ff44aa0800000000000000
+      internalID: -6177532019480852101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_63
+      rect:
+        serializedVersion: 2
+        x: 13657
+        y: 0
+        width: 244
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3330ebc485462acd0800000000000000
+      internalID: -2548364108730858701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_64
+      rect:
+        serializedVersion: 2
+        x: 13946
+        y: 0
+        width: 198
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46091b076a2e4af0800000000000000
+      internalID: -410343893987948977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_65
+      rect:
+        serializedVersion: 2
+        x: 14195
+        y: 0
+        width: 197
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e7d9fb1fb98d670800000000000000
+      internalID: 8563766154049191489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_66
+      rect:
+        serializedVersion: 2
+        x: 14443
+        y: 0
+        width: 198
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1f378bd8560c590800000000000000
+      internalID: -7656007707170442809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personnage_F_Atk_67
+      rect:
+        serializedVersion: 2
+        x: 14691
+        y: 0
+        width: 193
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff054c63c10c01790800000000000000
+      internalID: -7561332546944610049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7f4321516a53e834eb81f72d670b13b1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
